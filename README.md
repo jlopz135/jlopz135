@@ -1,7 +1,4 @@
-- Hi, I’m @jlopz135
-- I’m interested in soccer, coding, and long walks on the beach
-- I’m currently learning the languages C, PHP, Kotlin, and JavaScript
-- I’m looking to collaborate on any projects that catch my eye
+Drinking coffee and squashing bugs, or at least trying to...
 
 
 <!---
